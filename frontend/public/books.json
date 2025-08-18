@@ -1,0 +1,214 @@
+[
+    {
+        "_id": "1",
+        "title": "Better than the movies",
+        "description": "Learn the best strategies to grow your online store in today's competitive market and increase sales.",
+        "category": "romance",
+        "trending": true,
+        "coverImage": "book-28.jpeg",
+        "oldPrice": 29.99,
+        "newPrice": 19.99
+    },
+    {
+  "_id": 2,
+  "title": "Happy Place",
+  "description": "A heartfelt romantic novel about two exes who pretend to still be together during an annual getaway, only to rediscover their feelings.",
+  "category": "romance",
+  "trending": true,
+  "coverImage": "book-1.jpeg",
+  "oldPrice": 32.99,
+  "newPrice": 27.99
+},
+{
+  "_id": 3,
+  "title": "Beach Read",
+  "description": "A witty romance about two writers with opposite styles who challenge each other to swap genres while spending the summer by the beach.",
+  "category": "romance",
+  "trending": true,
+  "coverImage": "book-2.jpeg",
+  "oldPrice": 31.99,
+  "newPrice": 26.99
+},
+{
+  "_id": 4,
+  "title": "People We Meet on Vacation",
+  "description": "A charming story of two best friends who reunite for one last vacation, confronting their past and the possibility of love.",
+  "category": "romance",
+  "trending": true,
+  "coverImage": "book-3.jpeg",
+  "oldPrice": 30.99,
+  "newPrice": 25.99
+},
+{
+  "_id": 5,
+  "title": "Funny Story",
+  "description": "A lighthearted romance about unexpected roommates whose fake relationship begins to blur into something real.",
+  "category": "romance",
+  "trending": true,
+  "coverImage": "book-4.jpeg",
+  "oldPrice": 29.99,
+  "newPrice": 24.99
+},
+{
+  "_id": 6,
+  "title": "The Love Hypothesis",
+  "description": "A bestselling romantic comedy about a PhD student who pretends to date a grumpy professor, only for sparks to fly.",
+  "category": "romance",
+  "trending": true,
+  "coverImage": "book-5.jpeg",
+  "oldPrice": 33.99,
+  "newPrice": 28.99
+},
+{
+  "_id": 7,
+  "title": "Love on the Brain",
+  "description": "A witty rom-com about a scientist forced to collaborate with her nemesis, discovering love and chemistry in unexpected ways.",
+  "category": "romance",
+  "trending": true,
+  "coverImage": "book-6.jpeg",
+  "oldPrice": 34.99,
+  "newPrice": 29.99
+},
+{
+  "_id": 8,
+  "title": "Love Theoretically",
+  "description": "A swoony romance about an ambitious physicist whose career and love life collide when she meets her rival.",
+  "category": "romance",
+  "trending": true,
+  "coverImage": "book-7.jpeg",
+  "oldPrice": 35.99,
+  "newPrice": 30.99
+},
+
+    {
+        "_id": 9,
+        "title": "Sometimes I Lie",
+        "description": "The book is a psychological thriller about a woman in a coma who can hear everything around her, revealing secrets and lies as the story unfolds.",
+         "category": "thriller",
+        "trending": true,
+        "coverImage": "book-25.jpeg",
+        "oldPrice": 35.99,
+        "newPrice": 30.99
+    },
+    {
+  "_id": 10,
+  "title": "The Housemaid",
+  "description": "A gripping thriller about a woman who takes a job as a housemaid in a wealthy family’s home, only to discover dark secrets behind closed doors.",
+  "category": "thriller",
+  "trending": true,
+  "coverImage": "book-21.jpeg",
+  "oldPrice": 34.99,
+  "newPrice": 29.99
+},
+{
+  "_id": 11,
+  "title": "The Teacher",
+  "description": "A chilling psychological thriller where a teacher’s mysterious past collides with the secrets of their students and colleagues.",
+  "category": "thriller",
+  "trending": true,
+  "coverImage": "book-22.jpeg",
+  "oldPrice": 32.99,
+  "newPrice": 27.99
+},
+{
+  "_id": 12,
+  "title": "Tenant",
+  "description": "A suspenseful story of a tenant who moves into an apartment building, only to uncover sinister truths about their neighbors and landlord.",
+  "category": "thriller",
+  "trending": true,
+  "coverImage": "book-23.jpeg",
+  "oldPrice": 33.99,
+  "newPrice": 28.99
+},
+{
+  "_id": 13,
+  "title": "The Crash",
+  "description": "A fast-paced thriller following survivors of a deadly plane crash as they realize the disaster may not have been an accident.",
+  "category": "thriller",
+  "trending": true,
+  "coverImage": "book-24.jpeg",
+  "oldPrice": 36.99,
+  "newPrice": 31.99
+},
+{
+  "_id": 14,
+  "title": "His & Hers",
+  "description": "A dark psychological thriller about two sides of a murder story, where both the journalist and detective may be hiding deadly secrets.",
+  "category": "thriller",
+  "trending": true,
+  "coverImage": "book-26.jpeg",
+  "oldPrice": 35.99,
+  "newPrice": 30.99
+},
+{
+  "_id": 15,
+  "title": "The Family Upstairs",
+  "description": "A dark psychological thriller about a woman who inherits a house with a chilling history of mysterious deaths and cult-like secrets.",
+  "category": "thriller",
+  "trending": true,
+  "coverImage": "book-27.jpeg",
+  "oldPrice": 35.99,
+  "newPrice": 30.99
+},
+{
+  "_id": 16,
+  "title": "The Serpent The Wings of Night",
+  "description": "A dark fantasy about a human girl who enters a deadly vampire tournament, where survival means power, love, and betrayal.",
+  "category": "fantasy",
+  "trending": true,
+  "coverImage": "book-8.jpeg",
+  "oldPrice": 39.99,
+  "newPrice": 34.99
+},
+{
+  "_id": 17,
+  "title": "The Witcher",
+  "description": "Follow Geralt of Rivia, a monster hunter navigating a world of magic, politics, and destiny in this iconic fantasy series.",
+  "category": "fantasy",
+  "trending": true,
+  "coverImage": "book-9.jpeg",
+  "oldPrice": 38.99,
+  "newPrice": 32.99
+},
+{
+  "_id": 18,
+  "title": "Shatter Me",
+  "description": "A dystopian fantasy about a girl with a lethal touch, struggling between freedom, love, and rebellion against a cruel regime.",
+  "category": "fantasy",
+  "trending": true,
+  "coverImage": "book-10.jpeg",
+  "oldPrice": 29.99,
+  "newPrice": 24.99
+},
+{
+  "_id": 19,
+  "title": "Destroy Me",
+  "description": "A novella in the Shatter Me series told from Warner’s perspective, revealing his secrets, motives, and inner battles.",
+  "category": "fantasy",
+  "trending": true,
+  "coverImage": "book-11.jpeg",
+  "oldPrice": 19.99,
+  "newPrice": 14.99
+},
+{
+  "_id": 20,
+  "title": "Unravel Me",
+  "description": "The sequel to Shatter Me where Juliette struggles to harness her deadly power as war and betrayal loom closer.",
+  "category": "fantasy",
+  "trending": true,
+  "coverImage": "book-12.jpeg",
+  "oldPrice": 31.99,
+  "newPrice": 26.99
+},
+{
+  "_id": 21,
+  "title": "Ignite Me",
+  "description": "The explosive continuation of the Shatter Me saga, where Juliette must choose love, loyalty, and how to wield her strength to change the world.",
+  "category": "fantasy",
+  "trending": true,
+  "coverImage": "book-13.jpeg",
+  "oldPrice": 34.99,
+  "newPrice": 28.99
+}
+
+]

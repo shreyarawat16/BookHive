@@ -1,0 +1,57 @@
+[
+    
+  {
+    "id": 1,
+    "title": "Modi Calls for Self-Reliance in Space Sector",
+    "description": "PM Modi emphasized India’s push for indigenous space capabilities, especially preparations for the Gaganyaan human spaceflight mission using homegrown technology.",
+    "image": "news1.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "GST 2.0: Diwali Tax Cuts to Boost Economy",
+    "description": "The proposed GST reforms under “GST 2.0” include rate reductions timed for Diwali, aimed at stimulating consumption and supporting businesses.",
+    "image": "news2.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Chinese Foreign Minister Wang Yi to Visit India",
+    "description": "Wang Yi is expected to visit India for talks on the Himalayan border dispute—the second high-level dialogue since the 2020 clash—and PM Modi may meet Xi at the SCO summit.",
+    "image": "news3.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "Floods and Landslides in Kashmir Kill 60",
+    "description": "Heavy rainfall triggered floods and landslides in Kashmir’s Chasoti—killing at least 60, leaving over 200 missing, and injuring more than 100, with rescue operations underway.",
+    "image": "news4.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "Visakhapatnam to Host IFR & MILAN 2026",
+    "description": "During I-Day celebrations, the Eastern Naval Command announced that Visakhapatnam will host IFR and MILAN 2026, and INS Udaigiri & Himgiri will be commissioned soon.",
+    "image": "news5.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "Flash Flood Devastates Dharali Village in Uttarakhand",
+    "description": "A sudden cloudburst hit Dharali village in Uttarkashi on August 5, triggering flash floods that swept away homes. At least five people have died, with over 50 missing—rescue operations continue amid heavy rainfall and blocked roads.",
+    "image": "news6.jpeg"
+  },
+   {
+    "id": 7,
+    "title": "Crowd Crush at New Delhi Railway Station Kills 18",
+    "description": "On February 15, 2025, a crowd crush at New Delhi railway station occurred on a footbridge over platforms 14 and 15 due to overcrowding—resulting in at least 18 deaths and 15 injuries. Investigations are underway and crowd management measures being reviewed.",
+    "image": "news7.jpeg"
+  },
+   {
+    "id": 8,
+    "title": "Supreme Court Orders Removal of Stray Dogs from Delhi-NCR",
+    "description": "On August 11, 2025, India’s Supreme Court mandated the capture, sterilization, vaccination, and permanent relocation of all stray dogs from Delhi-NCR, citing a surge in dog bite incidents and rabies risk. Authorities must establish shelters, implement CCTV monitoring, and set up a helpline, with stern legal penalties for obstruction. The ruling has sparked both public safety concerns and backlash from animal rights groups. (Source: Reuters, AP News, Times of India, etc.)",
+    "image": "news8.jpeg"
+  },
+  {
+    "id": 9,
+    "title": "Rahul Gandhi Alleges Over 100,000 Fake Voters in Mahadevapura Constituency",
+    "description": "In August 2025, Rahul Gandhi claimed that over 100,000 fraudulent voters were added to the Mahadevapura assembly voter list to sway the 2024 Lok Sabha election, alleging methods like duplicate entries, fake addresses, bulk registrations, invalid photos, and misuse of Form 6. The Election Commission dismissed the allegations and demanded a formal affidavit; the controversy has intensified calls for electoral reform and transparency.",
+    "image": "news9.jpeg"
+  }
+]
