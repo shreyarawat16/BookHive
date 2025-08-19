@@ -34,6 +34,7 @@ const TopSelling = () => {
 
 const filteredBooks= selectedCategory === "Choose a genre" ? books : 
 books.filter((book)=> book.category === selectedCategory.toLowerCase());
+  
   return (
     <section className='relative bg-gradient-to-r from white to-blue-200'>
         <div className='max-w-[1180px] w-11/12 mx-auto py-16'>

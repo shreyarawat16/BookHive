@@ -5,6 +5,7 @@ import { FaRegUser } from "react-icons/fa";
 import { FaRegHeart } from "react-icons/fa";
 import { Link } from 'react-router-dom';
 import avatar from '../assets/avatar.png';
+import { useSelector } from 'react-redux';
 const navigation= [
   {
     name: "Dashboard", href:'./dashboard'
@@ -16,6 +17,8 @@ const navigation= [
 const Navbar = () => {
   const currentUser= false;
   const [isDropDown, setIsDropDown]= useState(true);
+  const cartItems = useSelector(state=> state.cart.cartItems);
+  console.log(cartItems);
 
   return (
     <header className='w-full mx-auto max-w-screen-2xl py-6 px-4 sticky top-0 left-0 z-100 shadow-lg rounded-md bg-linear-to-r from-white to-blue-200 '>
@@ -64,7 +67,12 @@ const Navbar = () => {
           <button className='block'><FaRegHeart className='size-6'/></button>
           <Link to="/cart" className='bg-[#FFCE1A] p-1 sm:px-6 px-2 flex items-center rounded-lg'>
             <FiShoppingCart className='size-6'/>
-            <span className='text-md font-semibold sm:ml-1 ml-2'>0</span>
+            {
+              cartItems.length>0 ?
+              <span className='text-md font-semibold sm:ml-1 ml-2'>{cartItems.length}</span>
+            :
+             <span className='text-md font-semibold sm:ml-1 ml-2'>0</span>
+             }
           </Link>
         </div>
       </nav>

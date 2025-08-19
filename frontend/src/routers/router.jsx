@@ -2,7 +2,7 @@ import {createBrowserRouter} from "react-router";
 import App from "../App.jsx";
 import Home from "../pages/Home/Home.jsx";
 import Login from "../components/Login.jsx";
-import Register from "../components/Register.jsx";
+
 
 const router = createBrowserRouter([
   {
@@ -26,10 +26,7 @@ const router = createBrowserRouter([
         path: "/dashboard",
         element: <div>Dashoard</div>
       },
-      {
-        path: "/checkout",
-        element: <div>Checkout</div>
-      },
+      
       {
         path: "/cart",
         element: <div>Cart</div>
@@ -37,11 +34,7 @@ const router = createBrowserRouter([
       {
       path: "/login",
       element: <Login/>
-      } ,
-      {
-        path: "/register",
-        element: <Register/>
-      }
+      },
     ]
   },
 ]);
